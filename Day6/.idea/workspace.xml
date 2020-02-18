@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b89ec4cd-81ce-43e5-99cb-b291ad1e4fac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xuw4A4peT86OW90fe9be11YzwP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Kotlin.CollectionSetKt">
+    <configuration name="ArryListKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Day5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ArryListKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionImListKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Day5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CollectionImListKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionMapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Day5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CollectionMapKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionSetKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Day5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CollectionSetKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicatesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Day5" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PredicatesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.CollectionSetKt" />
+        <item itemvalue="Kotlin.PredicatesKt" />
+        <item itemvalue="Kotlin.CollectionMapKt" />
+        <item itemvalue="Kotlin.ArryListKt" />
+        <item itemvalue="Kotlin.CollectionImListKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b89ec4cd-81ce-43e5-99cb-b291ad1e4fac" name="Default Changelist" comment="" />
+      <created>1581909095336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581909095336</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581918016107">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="421" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1366.706@0.23.1366.706" timestamp="1581918016107" />
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1582005289806">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.23.1366.706@0.23.1366.706" timestamp="1582005289806" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1582005289805">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.23.1366.706@0.23.1366.706" timestamp="1582005289805" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1582005289805">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.23.1366.706@0.23.1366.706" timestamp="1582005289805" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1582005289805">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.23.1366.706@0.23.1366.706" timestamp="1582005289805" />
+    <state width="1324" height="217" key="GridCell.Tab.1.bottom" timestamp="1581951756194">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state width="1324" height="217" key="GridCell.Tab.1.bottom/0.23.1366.706@0.23.1366.706" timestamp="1581951756194" />
+    <state width="1324" height="217" key="GridCell.Tab.1.center" timestamp="1581951756194">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state width="1324" height="217" key="GridCell.Tab.1.center/0.23.1366.706@0.23.1366.706" timestamp="1581951756194" />
+    <state width="1324" height="217" key="GridCell.Tab.1.left" timestamp="1581951756193">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state width="1324" height="217" key="GridCell.Tab.1.left/0.23.1366.706@0.23.1366.706" timestamp="1581951756193" />
+    <state width="1324" height="217" key="GridCell.Tab.1.right" timestamp="1581951756194">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state width="1324" height="217" key="GridCell.Tab.1.right/0.23.1366.706@0.23.1366.706" timestamp="1581951756194" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/ExceptionHandling.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
