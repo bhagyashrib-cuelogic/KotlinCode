@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45de7cac-5bf4-497f-9b5e-3bd3af42db05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KotlinCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Sample.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XmapHWVqC8buO2ScgglbEfoRUJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45de7cac-5bf4-497f-9b5e-3bd3af42db05" name="Default Changelist" comment="" />
+      <created>1581653904053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581653904053</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="147" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581658664645">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="147" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1366.706@0.23.1366.706" timestamp="1581658664645" />
+    <state x="420" y="169" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581658655932">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="420" y="169" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1366.706@0.23.1366.706" timestamp="1581658655932" />
+    <state x="326" y="23" key="CommitChangelistDialog2" timestamp="1581653990372">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="326" y="23" key="CommitChangelistDialog2/0.23.1366.706@0.23.1366.706" timestamp="1581653990372" />
+    <state x="110" y="123" width="1146" height="506" key="DiffContextDialog" timestamp="1581658678453">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="110" y="123" width="1146" height="506" key="DiffContextDialog/0.23.1366.706@0.23.1366.706" timestamp="1581658678453" />
+    <state x="110" y="123" width="1146" height="506" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581658678454">
+      <screen x="0" y="23" width="1366" height="706" />
+    </state>
+    <state x="110" y="123" width="1146" height="506" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1366.706@0.23.1366.706" timestamp="1581658678454" />
+  </component>
+</project>
